@@ -24,5 +24,9 @@
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
     "vite": "^6.0.7"
-  }
+  },
+  "description": "Assume you are developing an ecommers platfrom you need to display all of your products on home page.Now you need to prepare an product cart to display the details of the product.",
+  "main": "eslint.config.js",
+  "author": "",
+  "license": "ISC"
 }
